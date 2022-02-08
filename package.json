@@ -1,0 +1,19 @@
+{
+  "name": "week02",
+  "version": "1.0.0",
+  "description": "Homework 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebKmn/CSC3916_HW1.git"
+  },
+  "author": "Web Kimoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebKmn/CSC3916_HW1/issues"
+  },
+  "homepage": "https://github.com/WebKmn/CSC3916_HW1#readme"
+}
